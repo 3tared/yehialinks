@@ -13,7 +13,7 @@ export const OWNER_DATA = {
   title: "Founder & CEO",
   bio: "Owner of Lava Restaurant & Cafe & Hilton Group | Creating exceptional experiences in hospitality, beauty, and innovation.",
   avatar:
-    "https://j8v6vnsfxb.ufs.sh/f/KWERu0J43fSUoKbYuf7ehY1VOfQypLjdctRCKEA6l5NzwrqT",
+    "https://j8v6vnsfxb.ufs.sh/f/KWERu0J43fSU67fEIC2d67hLNOqCoZRvUl9bTVEgQ4aYerP2",
 
   links: [
     {
@@ -54,7 +54,7 @@ export const OWNER_DATA = {
     {
       id: "6",
       title: "Hilton & Elhekma Group",
-      url: "#",
+      url: "https://hiltonlinks.vercel.app/",
       icon: FaBuilding,
       color: "#1565C0",
     },
