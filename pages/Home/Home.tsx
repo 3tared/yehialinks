@@ -157,7 +157,7 @@ export default function ProfessionalLinktree() {
                   <img
                     src={OWNER_DATA.avatar}
                     alt={OWNER_DATA.name}
-                    className="w-full h-full object-cover"
+                    className="w-full h-full object-center"
                   />
                 </div>
               </div>
